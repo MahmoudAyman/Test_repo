@@ -1,9 +1,5 @@
 hello, world
 ayman
 client
-<<<<<<< HEAD
-
-=======
 Lamis
->>>>>>> 021c77f54129c3d407124b67cc5d19702ae351d3
 hady
